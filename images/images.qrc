@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>black_blank.png</file>
+        <file>blue_blank.png</file>
+        <file>green_blank.png</file>
+        <file>red_blank.png</file>
+        <file>yellow_blank.png</file>
+        <file>black.png</file>
+        <file>blue.png</file>
+        <file>green.png</file>
+        <file>red.png</file>
+        <file>yellow.png</file>
+        <file>jelly_background.jpg</file>
+        <file>border.png</file>
+        <file>jellies.jpg</file>
+        <file>Instructions.png</file>
+    </qresource>
+</RCC>
